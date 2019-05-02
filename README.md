@@ -1,9 +1,9 @@
 # MSCI6070-FinalProject
 
-_This repository contains all the work done by the group 'FinalProject6' for the course MSCI:6070, "Data Science" _
+_This repository contains all my work done in the group 'FinalProject6' for the course MSCI:6070, "Data Science"_
 
 
-#### [Project homepage](http://drivendata.github.io/cookiecutter-data-science/)
+#### [Project homepage](https://github.com/alexbates828/MSCI6070-FinalProject)
 
 
 ### The resulting directory structure
